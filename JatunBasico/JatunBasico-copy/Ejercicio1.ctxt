@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Ejercicio1
+comment1.params=name1\ name2
+comment1.target=java.lang.String\ calcularDistancia(java.lang.String,\ java.lang.String)
+comment2.params=cad
+comment2.target=int\ calcularSumatoria(java.lang.String)
+numComments=3

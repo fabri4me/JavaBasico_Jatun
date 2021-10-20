@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LaPropagacionDeMiAnhelo
+comment1.params=frase
+comment1.target=java.lang.String\ numeroSignos(java.lang.String)
+comment2.params=signo
+comment2.target=boolean\ esSigno(char)
+numComments=3
