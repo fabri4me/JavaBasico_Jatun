@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=UnicornioTron
+comment1.params=premio
+comment1.target=UnicornioTron(int)
+comment2.params=
+comment2.target=int\ consultarPremio()
+comment3.params=fichas
+comment3.target=int\ insertarFichas(int)
+comment4.params=
+comment4.target=void\ generarNumero()
+comment5.params=numero
+comment5.target=java.lang.String\ AdivinarNumero(int)
+numComments=6

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CuadernoUnicornio
+comment0.text=\r\n\ \r\n\ \r\n\ @author\ (Fabri)\ \r\n\ @version\ (29/09/21)\r\n
+comment1.params=tareaInicial
+comment1.target=CuadernoUnicornio(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ consultarTareaActual()
+comment3.params=
+comment3.target=boolean\ concluirTarea()
+comment4.params=nuevaActividad
+comment4.target=java.lang.String\ crearActividad(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ tareasCompletadas()
+numComments=6
